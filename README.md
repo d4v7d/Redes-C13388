@@ -1,2 +1,4 @@
 # Redes-C13388
-Repositorio para taread del curso CI-0121
+Repositorio para las tareas del curso CI-0121
+
+David González Villanueva c13388
